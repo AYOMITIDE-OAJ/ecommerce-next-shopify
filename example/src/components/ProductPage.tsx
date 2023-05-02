@@ -197,7 +197,7 @@ export function ProductPage({ product }: ProductPageProps) {
                   <span className="flex py-2 gap-1">
                     <a
                       className="text-gray-500 hover:text-indigo-500"
-                      href="https://twitter.com/robertbrosma"
+                      href="https://twitter.com/azionspecie"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -205,7 +205,7 @@ export function ProductPage({ product }: ProductPageProps) {
                     </a>
                     <a
                       className="ml-2 text-gray-500 hover:text-indigo-500"
-                      href="https://github.com/RobertBroersma"
+                      href="https://github.com/ayomitide-oaj"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
