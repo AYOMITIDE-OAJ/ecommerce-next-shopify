@@ -2,7 +2,7 @@
   "name": "next-storefront-example",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Robert Broersma",
+  "author": "Ayomitide OAJ",
   "license": "MIT",
   "dependencies": {
     "@next-storefront/core": "*",
@@ -25,10 +25,11 @@
     "react-grid-layout": "^1.0.0",
     "shopify-buy": "^2.11.0",
     "storyblok-js-client": "^2.5.2",
-    "storyblok-react": "^0.1.1"
+    "storyblok-react": "^0.1.1",
+    "webpack": "^5.81.0"
   },
   "scripts": {
-    "dev": "next",
+    "dev": "next ",
     "prebuild": "rimraf ./.statik",
     "build": "next build",
     "start": "next start",
