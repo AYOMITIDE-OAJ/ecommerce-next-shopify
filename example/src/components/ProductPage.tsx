@@ -195,7 +195,7 @@ export function ProductPage({ product }: ProductPageProps) {
                 </h1>
                 <div className="flex mb-4">
                   <span className="flex py-2 gap-1">
-                    <a
+                    {/* <a
                       className="text-gray-500 hover:text-indigo-500"
                       href="https://twitter.com/azionspecie"
                       target="_blank"
@@ -210,7 +210,7 @@ export function ProductPage({ product }: ProductPageProps) {
                       rel="noopener noreferrer"
                     >
                       <GitHub className="w-5 h-5" />
-                    </a>
+                    </a> */}
                   </span>
                 </div>
                 <p className="leading-relaxed">{product.description}</p>
