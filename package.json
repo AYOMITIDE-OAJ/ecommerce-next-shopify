@@ -11,6 +11,7 @@
     "utils"
   ],
   "dependencies": {
-    "@next-storefront/core": "^0.1.1"
+    "@next-storefront/core": "^0.1.1",
+    "@next-storefront/shopify": "^0.1.1"
   }
 }
